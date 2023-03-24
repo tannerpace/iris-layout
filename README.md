@@ -1,2 +1,2 @@
 # iris-layout
-my iris v6 layout
+my iris v7 layout
